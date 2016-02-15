@@ -10,6 +10,7 @@
 </head>
 <body>
 	<p>this is home page!</p>
+	<!-- boostrap的div布局样式，栅格 -->
 	<div class="container">
 		<div class="row">
 			<div class="col-md-2">
