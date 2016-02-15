@@ -26,6 +26,12 @@
     <load-on-startup>1</load-on-startup>
   </servlet>
   
+  <!-- The path for load the config file of springmvc -->
+	<context-param>
+		<param-name>contextConfigLocation</param-name>
+		<param-value>/WEB-INF/application-*.xml</param-value>
+	</context-param>
+  
   <servlet-mapping>
     <servlet-name>springmvc</servlet-name>
     <url-pattern>/</url-pattern>

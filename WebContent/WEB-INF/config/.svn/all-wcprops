@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hula/!svn/ver/904/trunk/WebContent/WEB-INF/config
+END
+log4j2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hula/!svn/ver/739/trunk/WebContent/WEB-INF/config/log4j2.xml
+END
+antisamy-tinymce-1.4.4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hula/!svn/ver/904/trunk/WebContent/WEB-INF/config/antisamy-tinymce-1.4.4.xml
+END
+mail.properties
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hula/!svn/ver/642/trunk/WebContent/WEB-INF/config/mail.properties
+END

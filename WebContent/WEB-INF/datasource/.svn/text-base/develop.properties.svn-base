@@ -1,0 +1,5 @@
+hula.db.url=jdbc:mysql://192.168.199.154:3306/hula?useUnicode=true&characterEncoding=utf8
+hula.db.username=huladb
+hula.db.password=huladb
+hula.db.preferredTestQuery=select 1
+hula.db.idleConnectionTestPeriod=21600
